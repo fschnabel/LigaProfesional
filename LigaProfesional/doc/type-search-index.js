@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"controladores","l":"ControladorTorneo"},{"p":"modelos","l":"Equipo"},{"p":"excepciones","l":"EquipoDuplicadoException"},{"p":"modelos","l":"Etapas"},{"p":"modelos","l":"Posicion"},{"p":"modelos","l":"Torneo"},{"p":"vista","l":"VistaTorneo"}];updateSearchResults();
